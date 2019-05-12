@@ -10,7 +10,7 @@ Using advanced search features from these engines will give you more results.
 * Check the version of the Searx instance. Version 0.14 and higher are recommended.
 
 **Want to add instances that aren't listed here?**
-* Open an issue and I'll try to add them if they meet basic criteria (Valid HTTPS and version > 0.14).
+* Open an issue and I'll try to add them if they meet basic criteria (Valid HTTPS and version >= 0.14).
 
 | Instance URL | 
 |--
