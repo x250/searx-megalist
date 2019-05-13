@@ -1,5 +1,6 @@
 # Searx megalist
 A big list of uncurated public (available to anyone) Searx instances on the web. Use at your own risk.
+Please report instances that are offline or that have invalid SSL configurations.
 
 **Last updated on:** April 12, 2019
 
@@ -213,3 +214,5 @@ Using advanced search features from these engines will give you more results.
 | https://yuhu.ddns.net/searx/ |
 | https://zlsdzh.tk/ |
 | https://zooche.de/ |
+
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
