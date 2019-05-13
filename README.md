@@ -3,9 +3,9 @@ A big list of uncurated public (available to anyone) Searx instances on the web.
 
 Please report instances that are offline or that have invalid SSL configurations.
 
-**Last updated on:** April 12, 2019
+**Last updated on:** April 13, 2019
 
-**Total instances:** 245
+**Total instances:** 247
 
 **How to find new instances:**
 * Search for instances using the keyword "Searx".
@@ -25,6 +25,7 @@ Using advanced search features from these engines will give you more results.
 | https://arkness.cf/ |
 | https://beezboo.com/ |
 | https://burtrum.org/searx/ |
+| https://bycloud.fr/trouve/ |
 | https://dynabyte.ca/ |
 | https://finden.tk/ |
 | https://glaskugel.io/ |
@@ -89,6 +90,7 @@ Using advanced search features from these engines will give you more results.
 | https://search.onosend.ai/ |
 | https://search.paulla.asso.fr/ |
 | https://search.pifferi.info/ |
+| https://search.privacy-cloud.me/ |
 | https://search.privacytools.io/ |
 | https://search.rherault.fr/ |
 | https://search.schefczyk.net/ |
@@ -104,12 +106,12 @@ Using advanced search features from these engines will give you more results.
 | https://search.tiborbosma.nl/ |
 | https://search.tildeverse.org/ |
 | https://search.tolstoevsky.ml/ |
-| https://search.tolstoevsky.ml/ |
 | https://search.toot.koeln/ |
 | https://search.weho.st/ |
 | https://search.weird.solutions/ |
 | https://search.wlkr.ch/ |
 | https://searchsin.com/searx |
+| https://searchx.mobi/ |
 | https://searx-lv.ovpn.to/searx |
 | https://searx.04dco.tk/ |
 | https://searx.17ker.top |
