@@ -5,7 +5,7 @@ Please report instances that are offline or that have invalid SSL configurations
 
 **Last updated on:** April 13, 2019
 
-**Total instances:** 247
+**Total instances:** 248
 
 **How to find new instances:**
 * Search for instances using the keyword "Searx".
@@ -107,6 +107,7 @@ Using advanced search features from these engines will give you more results.
 | https://search.tildeverse.org/ |
 | https://search.tolstoevsky.ml/ |
 | https://search.toot.koeln/ |
+| https://search.vivam.info/ |
 | https://search.weho.st/ |
 | https://search.weird.solutions/ |
 | https://search.wlkr.ch/ |
