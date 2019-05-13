@@ -2,6 +2,7 @@
 A big list of uncurated public (available to anyone) Searx instances on the web. Use at your own risk.
 
 **Last updated on:** April 12, 2019
+
 **Total instances:** 197
 
 **How to find new instances:**
