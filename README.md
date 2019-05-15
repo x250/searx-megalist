@@ -5,7 +5,7 @@ Please report instances that are offline or that have invalid SSL configurations
 
 **Last updated on:** May 14, 2019
 
-**Total instances:** 248
+**Total instances:** 252
 
 **How to find new instances:**
 * Search for instances using the keyword "Searx".
@@ -53,11 +53,13 @@ Using advanced search features from these engines will give you more results.
 | https://s.tinyfluffy.cloud/ |
 | https://s.u-m.me/ |
 | https://sax-net.de/ |
+| https://search.6zgm.com/ |
 | https://search.activemail.de/ |
 | https://search.adminrezo.fr/ |
 | https://search.anzewei.tk/ |
 | https://search.ard-site.net/ |
 | https://search.azkware.net/ |
+| https://search.bibliotecas.top/ |
 | https://search.biboumail.fr/ |
 | https://search.cdstm.ch/ |
 | https://search.conquerworld.fr/ |
@@ -230,6 +232,7 @@ Using advanced search features from these engines will give you more results.
 | https://spot.test.eelo.me/ |
 | https://stemy.me/searx/ |
 | https://suche.cool/ |
+| https://suche.edvgarbe.de/ |
 | https://suche.elaon.de/ |
 | https://suche.foo.li/ |
 | https://suche.ftp.sh/ |
@@ -250,6 +253,7 @@ Using advanced search features from these engines will give you more results.
 | https://wtf.roflcopter.fr/searx/ |
 | https://www.gruble.de/ |
 | https://www.heraut.eu/searx/ |
+| https://www.laeran.pl/search/ |
 | https://www.m4s.io/ |
 | https://www.normansheepyang.ml/ |
 | https://www.perfectpixel.de/searx/ |
