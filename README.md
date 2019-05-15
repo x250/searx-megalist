@@ -3,7 +3,7 @@ A big list of uncurated public (available to anyone) Searx instances on the web.
 
 Please report instances that are offline or that have invalid SSL configurations.
 
-**Last updated on:** April 13, 2019
+**Last updated on:** May 14, 2019
 
 **Total instances:** 248
 
